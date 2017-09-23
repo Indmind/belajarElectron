@@ -1,0 +1,14 @@
+{
+  "name": "belajarelectron",
+  "version": "1.0.0",
+  "description": "belajar electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Indmind",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.6"
+  }
+}
