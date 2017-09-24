@@ -16,7 +16,7 @@ function createwindow(){
     }));
 
     // open the dev tools
-    win.webContents.openDevTools();
+   // win.webContents.openDevTools();
 
     // emmit when window is closed
     win.on('closed', () => {
